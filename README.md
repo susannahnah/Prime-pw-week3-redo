@@ -22,7 +22,7 @@ In the `assignment` folder, you have the following files:
 - [ ] *styles/style.css* (Base)
 - [ ] *index.html* (Base)
 
-There is something in each of the files to work on.
+There is something in each of the files on which to work.
 
 In the `checkpoints` folder, you have two files:
 
