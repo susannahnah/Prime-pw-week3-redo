@@ -1,13 +1,15 @@
 # Type your responses on a new line
 
-# 1 - How do you find the length of an array?
+How ould you do the following:
 
-# 2 - How do you add a new value to the end of an array?
+# 1 - Find the number of items in an array?
 
-# 3 - How do you add a new value to the front of an array?
+# 2 - Add a new value to the end of an array?
 
-# 4 - How do you remove the last item in an array?
+# 3 - Add a new value to the beginning of an array?
 
-# 5 - How do you remove the first item in an array?
+# 4 - Remove the last item in an array?
 
-# 6 - How would you create a new, empty array and assign it to a variable?
+# 5 - Remove the first item in an array?
+
+# 6 - Create a new, empty array and assign it to a variable?
