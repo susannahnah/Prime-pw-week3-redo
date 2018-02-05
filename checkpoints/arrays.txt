@@ -9,3 +9,5 @@
 # 4 - How do you remove the last item in an array?
 
 # 5 - How do you remove the first item in an array?
+
+# 6 - How would you create a new, empty array and assign it to a variable?
