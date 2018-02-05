@@ -20,7 +20,7 @@
 
 // PRO MODE
 
-// Change the `for` loop from base mode to a `for in` loop
+// Change the `for` loop from base mode to a `for of` loop
 
 // Write a `for` loop that console logs each value in the array, 
 // and if the index of the array matches the value of 'myValue', also console log 'Hurray!'
