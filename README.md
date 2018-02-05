@@ -5,7 +5,7 @@ This week, we will continue to put more into your tool belt by tackling methods 
 ## Topics Covered
 
 * arrays
-* loops: `for`, `while`, `for in`
+* loops: `for`, `while`, `for of`
 
 ## Assignment
 
