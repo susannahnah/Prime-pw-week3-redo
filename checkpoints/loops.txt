@@ -1,6 +1,6 @@
 # Type your responses on a new line
 
-# 1 - In your opinion, what would be the benefit of using a loop?
+# 1 - In your opinion, what are the benefits of using loops?
 
 # 2 - What kind of loop would you want to use if you wanted to do something a certain number of times: for or while?
 
