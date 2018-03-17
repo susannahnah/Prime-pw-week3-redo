@@ -1,11 +1,12 @@
 # Type your responses on a new line
 
 # 1 - How do you find the length of an array?
-
+.length
 # 2 - How do you add a new value to the end of an array?
-
+.push()
 # 3 - How do you add a new value to the front of an array?
-
+.unshift()
 # 4 - How do you remove the last item in an array?
-
+.pop()
 # 5 - How do you remove the first item in an array?
+.unshift()
