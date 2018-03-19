@@ -9,4 +9,4 @@
 # 4 - How do you remove the last item in an array?
 .pop()
 # 5 - How do you remove the first item in an array?
-.unshift()
+.shift()
