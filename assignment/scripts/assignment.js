@@ -40,7 +40,7 @@ for (value in array) {
 
 for (let i = 0; i < array.length; i++) {
     console.log(array[i]);
-    if (i === 10) {
+    if (i === myValue) {
         console.log('Hurray!');
     }
 }
@@ -49,7 +49,7 @@ for (let i = 0; i < array.length; i++) {
 
 for (let i = 0; i < array.length; i++) {
     console.log(array[i]);
-    if (array[i] === 10) {
+    if (array[i] === myValue) {
         console.log('Hurray!');
     }
 }
