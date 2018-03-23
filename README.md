@@ -14,22 +14,17 @@ As always, start off by forking and cloning this repository from GitHub. Open th
 Remember `console.log()` is your friend and you can use it in conjunction with the browser console to see the output of your code as you go.
 
 ### Files Provided
-This week you have two folders: `assignment` and `checkpoints`:
+This week you have a folder: `assignment`:
 
 In the `assignment` folder, you have the following files:
 
 - [ ] *scripts/assignment.js* (Base, Hard, Pro)
 - [ ] *styles/style.css* (Base)
 - [ ] *index.html* (Base)
+- [ ] *checkpoints/arrays.txt*
+- [ ] *checkpoints/loops.txt*
 
-There is something in each of the files on which to work.
-
-In the `checkpoints` folder, you have two files:
-
-- [ ] *arrays.txt*
-- [ ] *loops.txt*
-
-There are questions in each of these files, answer them inside of the file. The questions in these files are considered part of *BASE MODE*.
+There are questions in each of the .txt files, answer them inside of the file. The questions in these files are considered part of *BASE MODE*.
 
 #### Modes
 
