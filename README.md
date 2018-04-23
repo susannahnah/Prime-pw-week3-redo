@@ -21,8 +21,8 @@ In the `assignment` folder, you have the following files:
 - [ ] *scripts/assignment.js* (Base, Hard, Pro)
 - [ ] *styles/style.css* (Base)
 - [ ] *index.html* (Base)
-- [ ] *checkpoints/arrays.txt*
-- [ ] *checkpoints/loops.txt*
+- [ ] *checkpoints/arrays.txt* (Base)
+- [ ] *checkpoints/loops.txt* (Base)
 
 There are questions in each of the .txt files, answer them inside of the file. The questions in these files are considered part of *BASE MODE*.
 
