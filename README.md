@@ -1,4 +1,4 @@
-# prime-pw-week-3-assignment
+# Tier 1 Week 3
 
 This week, we will continue to put more into your tool belt by tackling methods for handling tasks multiple times and storing multiple pieces of information.
 
@@ -18,26 +18,25 @@ This week you have a folder: `assignment`:
 
 In the `assignment` folder, you have the following files:
 
-- [ ] *scripts/assignment.js* (Base, Hard, Pro)
-- [ ] *styles/style.css* (Base)
-- [ ] *index.html* (Base)
-- [ ] *checkpoints/arrays.txt* (Base)
-- [ ] *checkpoints/loops.txt* (Base)
+- [ ] *scripts/assignment.js* (Required Features, Stretch Goals)
+- [ ] *styles/style.css* (Required Features)
+- [ ] *index.html* (Required Features)
+- [ ] *checkpoints/arrays.txt* (Required Features)
+- [ ] *checkpoints/loops.txt* (Required Features)
 
-There are questions in each of the .txt files, answer them inside of the file. The questions in these files are considered part of *BASE MODE*.
+There are questions in each of the .txt files, answer them inside of the file. The questions in these files are considered part of *REQUIRED FEATURES*.
 
-#### Modes
+#### Levels of Difficulty
 
-Here is a reminder of what 'modes' are, and:
+Here is a reminder of what the levels are, and:
 
-* what to expect when attempting each mode
+* what to expect when attempting each one
 * if they are required or not
 
 Mode | Description
 --- | ---
-Base | required
-Hard | optional, stretches your understanding
-Pro | optional, stretches your understanding and may require additional research
+Required Features | required
+Stretch Goals | optional, stretches your understanding and may require additional research
 
 **NOTE:** The *.js* and *.css* files are already sourced into *index.html*.
 

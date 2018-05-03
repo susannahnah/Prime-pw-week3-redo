@@ -1,6 +1,6 @@
-# Type your responses on a new line
+## Type your responses on a new line
 
-How ould you do the following:
+How would you do the following:
 
 # 1 - Find the number of items in an array?
 
