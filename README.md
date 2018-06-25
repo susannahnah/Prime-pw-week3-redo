@@ -42,3 +42,5 @@ Stretch Goals | optional, stretches your understanding and may require additiona
 
 ### Assignment Submission
 Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
+
+**Make sure that you answer this week's discussion question in Slack!**
