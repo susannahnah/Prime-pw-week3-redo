@@ -20,11 +20,11 @@ In the `assignment` folder, you have the following files:
 
 - [ ] *scripts/assignment.js* (Required Features, Stretch Goals)
 - [ ] *styles/style.css* (Required Features)
-- [ ] *index.html* (Required Features)
+- [ ] *index.html* (Put any questions you have in this file)
 - [ ] *checkpoints/arrays.txt* (Required Features)
 - [ ] *checkpoints/loops.txt* (Required Features)
 
-There are questions in each of the .txt files, answer them inside of the file. The questions in these files are considered part of *REQUIRED FEATURES*.
+There are questions in each of the .txt files, answer them inside of the file.
 
 #### Levels of Difficulty
 
