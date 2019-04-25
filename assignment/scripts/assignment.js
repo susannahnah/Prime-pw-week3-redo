@@ -24,7 +24,10 @@ while( myValue < max ){
   myValue++;
 }
 // 8. Change the second value in the array from 6 to 20, then console log the array
-
+numbers[1] = '20';
+for( let i=0; i<numbers.length; i++ ){
+  console.log( numbers[i] );
+}
 // 9. Below, rewrite the `for` loop from question 6 to a `for of` loop
 
 // 10. Reassign the value of `myValue` to 3. Then, write a `for` loop that console logs each value in the array,
