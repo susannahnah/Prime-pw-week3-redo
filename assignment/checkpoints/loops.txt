@@ -1,11 +1,16 @@
 # Type your responses on a new line
 
 # 1 - In your opinion, what are the benefits of using loops?
+saving time of looping vs. having to rewrite something again and again and again
 
 # 2 - What kind of loop would you want to use if you wanted to do something a certain number of times: for or while?
+for loops
 
 # 3 - What kind of loop would you want to use if you wanted to do something as long as a condition were true: for or while?
+while loops
 
 # 4 - What is wrong with the argument for this for loop: `for(i = 0; i < array.length; i++)`?
+it should be i<hand.length to see all of the cards in the array. 
 
 # 5 - What does it mean if you get a console error like this: "Uncaught ReferenceError: i is undefined"?
+i only exists within the for loop code block

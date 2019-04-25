@@ -3,13 +3,19 @@
 How would you do the following:
 
 # 1 - Find the number of items in an array?
+look for the length of the array in parenthesis
 
 # 2 - Add a new value to the end of an array?
+use .push  ex: bagel.push( 'smoked salmon' )
 
 # 3 - Add a new value to the beginning of an array?
+bagel.unshift( 'asiago' )
 
 # 4 - Remove the last item in an array?
+.pop()  ex: bagel.pop()
 
 # 5 - Remove the first item in an array?
+bagel.shift()
 
 # 6 - Create a new, empty array and assign it to a variable?
+in the .js, do:  let bagel = [ 'bacon', 'lettuce', 'tomato' ];
