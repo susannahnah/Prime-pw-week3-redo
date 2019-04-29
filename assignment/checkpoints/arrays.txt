@@ -18,4 +18,4 @@ bagel.unshift( 'asiago' )
 bagel.shift()
 
 # 6 - Create a new, empty array and assign it to a variable?
-in the .js, do:  let bagel = [ 'bacon', 'lettuce', 'tomato' ];
+in the .js, do:  let bagel = [];

@@ -1,13 +1,15 @@
 // REQUIRED FEATURES
 
 // 1. Create a variable with a value of an array with the following (number) values: 3, 6, 7, 10
-let numbers = [ '3', '6', '7', '10' ];
+let numbers = [ 3, 6, 7, 10 ];
 // 2. Create a variable called 'myValue' with a value of the number 0
 let myValue = 0;
 // 3. Console log the value of the array at index 2
 console.log( numbers[2] );
 // 4. Remove the last item in the array, then console log the array
-numbers.pop();
+numbers.pop();{
+console.log( numbers );
+}
 // 5. Add the value of number 15 to the end of the array
 numbers.push( 15 );
 // 6. Write a `for` loop that console logs each value in the array
@@ -24,9 +26,9 @@ while( myValue < max ){
   myValue++;
 }
 // 8. Change the second value in the array from 6 to 20, then console log the array
-numbers[1] = '20';
+numbers[1] = 20;
 for( let i=0; i<numbers.length; i++ ){
-  console.log( numbers[i] );
+  console.log( numbers );
 }
 // 9. Below, rewrite the `for` loop from question 6 to a `for of` loop
 

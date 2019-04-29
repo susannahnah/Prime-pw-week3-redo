@@ -10,7 +10,7 @@ for loops
 while loops
 
 # 4 - What is wrong with the argument for this for loop: `for(i = 0; i < array.length; i++)`?
-it should be i<hand.length to see all of the cards in the array. 
+it should be i<hand.length to see all of the cards in the array. Declare the i variable using let 
 
 # 5 - What does it mean if you get a console error like this: "Uncaught ReferenceError: i is undefined"?
 i only exists within the for loop code block
